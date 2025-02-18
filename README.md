@@ -6,7 +6,7 @@ I have just completed a BootCamp with JustIT in Data Analysis and completed many
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face: DATA ANALYSIS TOOLS :nerd_face: </h1> 
 </div>
-<b>I also have experience in using the following data analysis tools.<b>
+<b>I have experience in using the following data analysis tools.<b>
 <p align="center">
 <a href="#"> <img src="https://www.python.org/static/community_logos/python-logo.png" 
 alt="Python" height="60"/> </a>
@@ -22,7 +22,7 @@ px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="60"/> </a>
 </p>
 <div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION
 :slightly_smiling_face: </h1> </div>
-<b>I have also experience using these data visualization tools.<b>
+<b>I also have experience in using the following data visualization tools.<b>
 <p align="center">
 
 <a href="#" target="_blank"> <img 
