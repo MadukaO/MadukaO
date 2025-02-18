@@ -6,7 +6,7 @@ I have just completed a BootCamp with JustIT in Data Analysis and completed many
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face: DATA ANALYSIS TOOLS :nerd_face: </h1> 
 </div>
-<b>I have experience using these data analysis tools.<b>
+<b>I also have experience in using the following data analysis tools.<b>
 <p align="center">
 <a href="#"> <img src="https://www.python.org/static/community_logos/python-logo.png" 
 alt="Python" height="60"/> </a>
